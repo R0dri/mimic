@@ -1,7 +1,7 @@
 G04 Gerber job file.*
 %TF.FileFunction,JobInfo*%
 %TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
-%TF.CreationDate,2018-06-19T07:34:03Z*%
+%TF.CreationDate,2018-08-21T15:40:23Z*%
 %TF.Part,Single*%
 %MOMM*%
 %TJ.B_Owner,Rodrigo Sebastian Mendoza Tejada <rodri_opomoz@hotmail.com>*%
@@ -9,5 +9,5 @@ G04 Gerber job file.*
 %TJ.B_LayerNum,2*%
 %TJ.B_Thickness,1.570000*%
 %TJ.B_Size_X,71.100000*%
-%TJ.B_Size_Y,40.310000*%
+%TJ.B_Size_Y,89.840000*%
 M02*

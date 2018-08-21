@@ -6090,7 +6090,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VCC" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="U1" library="esp8266modules" deviceset="ESP12" device="SMD"/>
 </parts>
 <sheets>
 <sheet>
@@ -6545,7 +6544,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <plain>
 </plain>
 <instances>
-<instance part="U1" gate="G$1" x="66.04" y="63.5"/>
 </instances>
 <busses>
 </busses>
